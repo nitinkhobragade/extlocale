@@ -23,6 +23,7 @@
       {
         "name": "en",
         "localizations": {
+		  "Register Device":"Register",
           "THEME WHITE SMALL": "THEME WHITE SMALL",
           "THEME WHITE MEDIUM": "THEME WHITE MEDIUM",
           "THEME BLACK MEDIUM": "THEME BLACK MEDIUM",
