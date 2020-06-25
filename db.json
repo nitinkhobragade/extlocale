@@ -9,30 +9,13 @@
       {
         "name": "es",
         "localizations": {
-          "THEME WHITE SMALL": "TEMA BLANCO PEQUEÑA",
-          "THEME WHITE MEDIUM": "TEMA BLANCO MEDIO",
-          "THEME BLACK MEDIUM": "TEMA NEGRO MEDIO",
-          "THEME GREY LARGE": "TEMA GRIS GRANDE",
-          "THEME WHITE LARGE": "TEMA BLANCO GRANDE",
-          "THEME BLACK LARGE": "TEMA NEGRO GRANDE",
-          "THEME BLACK SMALL": "TEMA NEGRO PEQUEÑO",
-          "THEME GREY SMALL": "TEMA GRIS PEQUEÑO",
-          "THEME GREY MEDIUM": "TEMA MEDIO GRIS"
+		  "Register Device":"Registrar"
         }
       },
       {
         "name": "en",
         "localizations": {
-		  "Register Device":"Register",
-          "THEME WHITE SMALL": "THEME WHITE SMALL",
-          "THEME WHITE MEDIUM": "THEME WHITE MEDIUM",
-          "THEME BLACK MEDIUM": "THEME BLACK MEDIUM",
-          "THEME GREY LARGE": "THEME GREY LARGE",
-          "THEME WHITE LARGE": "THEME WHITE LARGE",
-          "THEME BLACK LARGE": "THEME BLACK LARGE",
-          "THEME BLACK SMALL": "THEME BLACK SMALL",
-          "THEME GREY SMALL": "THEME GREY SMALL",
-          "THEME GREY MEDIUM": "THEME GREY MEDIUM"
+		  "Register Device":"Register"
         }
       }
     ]
