@@ -16,7 +16,8 @@
         "name": "en",
         "localizations": {
 		  "Register Device":"Register",
-		  "Choose tenant name and proceed" : "Choose organization name and proceed"
+		  "Choose tenant name and proceed" : "Choose organization name and proceed",
+		  "Progress": "ssergorP"
         }
       }
     ]
