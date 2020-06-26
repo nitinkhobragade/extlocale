@@ -9,15 +9,15 @@
       {
         "name": "es",
         "localizations": {
-		  "Registrar dispositivo":"Registrar"
+		  "register":"Registrar"
         }
       },
       {
         "name": "en",
         "localizations": {
-		  "Register Device":"Register",
-		  "Choose tenant name and proceed" : "Choose organization name and proceed",
-		  "Progress": "ssergorP"
+		  "register":"Register",
+		  "choose_tenant_name_and_proceed" : "Choose organization name and proceed",
+		  "progress_app": "ssergorP"
         }
       }
     ]
