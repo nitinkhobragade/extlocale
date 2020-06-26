@@ -7,13 +7,13 @@
   "payload": {
     "locales": [
       {
-        "name": "es",
+        "name": "es_US",
         "localizations": {
 		  "register":"Registrar"
         }
       },
       {
-        "name": "en",
+        "name": "en_US",
         "localizations": {
 		  "register":"Register",
 		  "choose_tenant_name_and_proceed" : "Choose organization name and proceed",
