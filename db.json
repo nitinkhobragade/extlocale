@@ -5,21 +5,8 @@
     "errorMessage": "SUCCESS"
   },
   "payload": {
-    "locales": [
-      {
-        "name": "es_US",
-        "localizations": {
-		  "register":"Registrar"
-        }
-      },
-      {
-        "name": "en_US",
-        "localizations": {
-		  "register":"Register Device",
-		  "choose_tenant_name" : "Choose organization name and proceed",
-		  "progress_app": "ssergorP"
-        }
-      }
-    ]
+    "register": "Register Device",
+    "choose_tenant_name": "Choose organization name and proceed",
+    "progress_app": "ssergorP"
   }
 }
